@@ -1,2 +1,2 @@
 # university_thesis
-thesis for university graduation
+thesis project for university graduation
